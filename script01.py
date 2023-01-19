@@ -1,5 +1,5 @@
 
-
+# this script prints the first five lines of words file
 
 words = []
 
